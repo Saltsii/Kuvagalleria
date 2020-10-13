@@ -1,3 +1,4 @@
+
 <?php
 	define('ROOT_URL', 'http://localhost/kuvagalleria/');
 	define('DB_HOST', 'localhost');

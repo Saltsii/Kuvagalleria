@@ -1,4 +1,5 @@
 <nav class="navtop">
+
             <div>
                 <h1>Kuvagalleria</h1>
                 <?php if (isset($_SESSION['username'])): ?>
