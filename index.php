@@ -7,6 +7,7 @@ if (!isset($_SESSION['username'])) {
 require('config/config.php');
 require('config/db.php');
 
+
 ?>
 <?php include('inc/header.php'); ?>
 
