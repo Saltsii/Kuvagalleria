@@ -51,7 +51,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     }
 
     
-    
+
     if(empty(trim($_POST["password"]))){
         $password_err = "Salasana on pakollinen";     
     } elseif(strlen(trim($_POST["password"])) < 6){

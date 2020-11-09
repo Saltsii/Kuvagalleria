@@ -8,7 +8,6 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
     exit;
 }
 
- 
 // Include config file
 require('config/config.php');
 require('config/db.php');
